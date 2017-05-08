@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/arindamnayak/cordova-fcm-badge-test.svg?style=svg)](https://circleci.com/gh/arindamnayak/cordova-fcm-badge-test)
+
 ### cordova-fcm-badge-test
 
 This is a sample project that demonstrates, how corodava-fcm-plugin shows FCM notification with badge count on app icon. Steps to run this project. Since android does not support badge count on icon, this repo is only to demo, how to make it work for android only. And iOS has inbuilt support for this. So I am skipping that now.
