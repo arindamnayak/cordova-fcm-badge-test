@@ -16,8 +16,8 @@ dependencies:
     - npm install -g cordova
     - cordova platform add android
     - sed -i -e "s/1.0.0/1.2.3/g" ./platforms/android/build.gradle # fcm plugin specific
-    - sed -i "173i   targetSdkVersion 20 " ./platforms/android/build.gradle # fcm plugin specific
-    - sed -i "174i   applicationId \"com.badge.test\" " ./platforms/android/build.gradle # fcm plugin specific
+    - sed -i "180i   targetSdkVersion 20 " ./platforms/android/build.gradle # fcm plugin specific
+    - sed -i "181i   applicationId \"com.badge.test\" " ./platforms/android/build.gradle # fcm plugin specific
     - cordova build android
 test:
   override:
