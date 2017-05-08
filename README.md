@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/arindamnayak/cordova-fcm-badge-test.svg?style=svg)](https://circleci.com/gh/arindamnayak/cordova-fcm-badge-test)
+#### Build Status : [![CircleCI](https://circleci.com/gh/arindamnayak/cordova-fcm-badge-test.svg?style=svg)](https://circleci.com/gh/arindamnayak/cordova-fcm-badge-test)
 
 ### cordova-fcm-badge-test
 
